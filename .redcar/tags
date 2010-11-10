@@ -1,4 +1,4 @@
-1289269952
+1289351389
 Application	/home/jchang/Sites/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/jchang/Sites/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/jchang/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -8,3 +8,4 @@ SampleApp	/home/jchang/Sites/rails_projects/sample_app/config/application.rb	mod
 about	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 contact	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
 home	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
+title	/home/jchang/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	  def title
