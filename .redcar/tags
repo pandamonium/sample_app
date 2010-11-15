@@ -1,13 +1,16 @@
-1289778999
+1289780054
 Application	/home/jchang/Sites/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/jchang/Sites/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/jchang/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 PagesController	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	class PagesController 
 PagesHelper	/home/jchang/Sites/rails_projects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	/home/jchang/Sites/rails_projects/sample_app/config/application.rb	module SampleApp
+UsersController	/home/jchang/Sites/rails_projects/sample_app/app/controllers/users_controller.rb	class UsersController 
+UsersHelper	/home/jchang/Sites/rails_projects/sample_app/app/helpers/users_helper.rb	module UsersHelper
 about	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 contact	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
 help	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def help
 home	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
 logo	/home/jchang/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	  def logo
+new	/home/jchang/Sites/rails_projects/sample_app/app/controllers/users_controller.rb	  def new
 title	/home/jchang/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	  def title
