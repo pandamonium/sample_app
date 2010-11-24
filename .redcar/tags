@@ -1,4 +1,4 @@
-1290564118
+1290565490
 AddEmailUniquenessIndex	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101116005228_add_email_uniqueness_index.rb	class AddEmailUniquenessIndex 
 AddPasswordToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123014939_add_password_to_users.rb	class AddPasswordToUsers 
 AddSaltToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123022257_add_salt_to_users.rb	class AddSaltToUsers 
@@ -21,6 +21,7 @@ down	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123014939_add_
 down	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123022257_add_salt_to_users.rb	  def self.down
 encrypt	/home/jchang/Sites/rails_projects/sample_app/app/models/user.rb	    def encrypt
 encrypt_password	/home/jchang/Sites/rails_projects/sample_app/app/models/user.rb	    def encrypt_password
+gravatar_for	/home/jchang/Sites/rails_projects/sample_app/app/helpers/users_helper.rb	  def gravatar_for
 has_password?	/home/jchang/Sites/rails_projects/sample_app/app/models/user.rb	  def has_password?
 help	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def help
 home	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
