@@ -46,11 +46,10 @@ describe UsersController do
       get 'new'
       response.should be_success
     end
-  end
   
-  it "should should have the right title" do
-    get 'new'
-    response.should have_selector('title', :content => "Sign Up")
+    it "should should have the right title" do
+      get 'new'
+      response.should have_selector('title', :content => "Sign Up")
+    end
   end
-
 end
