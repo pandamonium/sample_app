@@ -1,4 +1,4 @@
-1291080629
+1291170316
 AddEmailUniquenessIndex	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101116005228_add_email_uniqueness_index.rb	class AddEmailUniquenessIndex 
 AddPasswordToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123014939_add_password_to_users.rb	class AddPasswordToUsers 
 AddSaltToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123022257_add_salt_to_users.rb	class AddSaltToUsers 
@@ -15,6 +15,7 @@ UsersController	/home/jchang/Sites/rails_projects/sample_app/app/controllers/use
 UsersHelper	/home/jchang/Sites/rails_projects/sample_app/app/helpers/users_helper.rb	module UsersHelper
 about	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 contact	/home/jchang/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
+create	/home/jchang/Sites/rails_projects/sample_app/app/controllers/users_controller.rb	  def create
 down	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101115225634_create_users.rb	  def self.down
 down	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101116005228_add_email_uniqueness_index.rb	  def self.down
 down	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123014939_add_password_to_users.rb	  def self.down
