@@ -1,4 +1,4 @@
-1291601136
+1291602272
 AddEmailUniquenessIndex	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101116005228_add_email_uniqueness_index.rb	class AddEmailUniquenessIndex 
 AddPasswordToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123014939_add_password_to_users.rb	class AddPasswordToUsers 
 AddSaltToUsers	/home/jchang/Sites/rails_projects/sample_app/db/migrate/20101123022257_add_salt_to_users.rb	class AddSaltToUsers 
